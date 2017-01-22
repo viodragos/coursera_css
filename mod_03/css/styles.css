@@ -1,0 +1,45 @@
+body {
+  font-size: 16px;
+  color: white;
+  background-color: #E3B524;
+  
+}
+
+#header-nav {
+  background-color: #E3B524;
+  border-radius: 0;
+  /*padding-left: 20px;*/
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid darkred;
+}
+
+
+#nav-list {
+  text-align: center;
+  background-color: snow;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: darkred;
+    padding-bottom: 0;
+    border-bottom: solid;
+    border-width: 1px;
+}
+
+.jumbotron {
+  height: 80%;
+  color: black;
+  border-radius: 0;
+  border: 0;
+}
+
+#menu-title {
+  text-align: center
+}
+
+p.section-title {
+  text-align: center;
+  font-weight: bold;
+}
